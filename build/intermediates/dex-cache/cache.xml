@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aebd6069bc38eb7d39653fd7200e52f0cfd54453">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_84b6af3f5e1c6b742633f36ff13620c06437d51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_8c3e1bf0c85594c51d8a45729956ceb3570dde2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_88a0ad75bbce641c4ca76c12cf3822d8a9435d03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a6312290760fb422348473a7eb298dc6a2824584">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c81adfd60024411a502b96c71af6453fa16b318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_f3c8953b567aa8238d5bf83ed9ffc3bf3f07fc01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_2640538d68969fafffdda09e471e34c6c95882ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_7982d09a54cb2bf9045c2687971be7a1fdb3c3b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="87fb797ba434e0847cfcca4ffd740941c41634e6">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha2_9ce88cb7bff37476eef96784e50b238f5febc554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_1fe4a35e0b9b1ee600f2043f58a7c163953c46b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_98fd26ea02aac9832b5c200ba1ab418413ed6584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DoggieSmile/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/DoggieSmile/AndroidStudioProjects/LectureWatchPrototype2 Kopie 2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_a4e8da14e9cc54016748b9eea14860adb6e5953c/classes.dex" />
+    </item>
+
+</items>
